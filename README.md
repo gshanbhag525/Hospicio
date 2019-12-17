@@ -1,4 +1,7 @@
 # Hospicio-Hospital-management_system-java-swing-mysql
+
+![](images/image1.jpg)
+
 Hospital-management_system in java-swing and mysql as backend
 
 1. Import the hms.sql file in phpmyadmin
