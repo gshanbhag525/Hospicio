@@ -1,6 +1,8 @@
 # Hospicio-Hospital-management_system-java-swing-mysql
 
-![](images/image1.jpg)
+![Splash Screen](images/1splashscreen.png)
+![Login Screen](images/2loginscreen.png)
+![Main Screen](images/3mainscreen.png)
 
 Hospital-management_system in java-swing and mysql as backend
 
